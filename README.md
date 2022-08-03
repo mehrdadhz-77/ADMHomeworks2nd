@@ -7,7 +7,7 @@ We analysed the Steam Reviews 2021 data and answered research questions (RQs) th
 To answer the questions here we combined all the three datasets into one single file named 'stream_reviews_combined.csv' which can be found at this link 'https://drive.google.com/file/d/1XDbHu9qGDDOJUZpTQCEMocCeyXyqlJTP/view?usp=sharing'
 
 # Project description: 
-# Homework 2 - Steam Reviews 2021
+# ADM Homework 2 - Steam Reviews 2021
 
 Video games have become a relevant part of everybody's childhood and (in many cases) adulthood. Along with the Internet growth, multiple distribution services appeared to provide digital media content such as audio, video, e-books and video games. The latter is the case of **Steam**. It is a service that offers digital rights management (DRM), server hosting, video streaming, and social networking services. It also gives the user installation and automatic updating of games and community features such as friends lists and groups, cloud storage, and in-game voice and chat functionality.
 
